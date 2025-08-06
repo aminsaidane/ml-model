@@ -1,0 +1,29 @@
+name,duration,businessUnit,profile,requiredCompetences,requiredCertifications,requiredFormations,resource_id
+Maintenance - Counter 1 (Tunis),2.0,Maintenance,Technicien Maintenance,['Inspection pipeline'],['Certificat Gaz Niveau 2'],['Maintenance pipeline niveau 1'],cccccccccccccccccccccccc
+Maintenance - Counter 1 (Tunis),2.0,Maintenance,Superviseure Maintenance,['Inspection pipeline'],['Certificat Gaz Niveau 2'],['Maintenance pipeline niveau 1'],cccccccccccccccccccccccd
+Coupure de gaz - Counter 2 (Bizerte),1.0,Distribution,Technicien Distribution,['Pose de canalisation'],['Certificat Gaz Niveau 1'],['Sécurité réseau gaz'],ccccccccccccccccccccccce
+Maintenance - Counter 3 (Ariana),3.0,Metering,Technicienne Compteurs,['Installation compteur'],['Certificat installation compteur'],['Formation compteurs intelligents'],cccccccccccccccccccccccf
+Maintenance - Counter 3 (Ariana),3.0,Metering,Technicien Réseau,['Installation compteur'],['Certificat installation compteur'],['Formation compteurs intelligents'],ccccccccccccccccccccccd0
+Coupure de gaz - Counter 4 (Nabeul),2.0,Safety & Compliance,Contrôleuse Qualité,['Audit sécurité'],['Certificat sécurité gaz'],['Audit ISO'],ccccccccccccccccccccccd1
+Maintenance - Counter 5 (Beja),2.0,Technical Support,Chargé de support SCADA,['Monitoring SCADA'],['Certificat SCADA niveau 1'],['Formation SCADA'],ccccccccccccccccccccccd2
+Maintenance - Counter 5 (Beja),2.0,Technical Support,Superviseure Distribution,['Monitoring SCADA'],['Certificat SCADA niveau 1'],['Formation SCADA'],ccccccccccccccccccccccd3
+Coupure de gaz - Counter 6 (Jendouba),1.0,Operations,Planificateur,['Planification'],[],['Planning multi-équipe'],ccccccccccccccccccccccd4
+Maintenance - Counter 7 (Zaghouan),2.0,Safety & Compliance,Technicienne sécurité,['Inspection EPI'],['Certificat sécurité incendie'],['Formation sécurité gaz'],ccccccccccccccccccccccd5
+Coupure de gaz - Counter 8 (Kef),2.0,Maintenance,Technicien Maintenance,['Réparation de fuites'],['Certificat Gaz Niveau 2'],['Maintenance pipeline niveau 1'],cccccccccccccccccccccccc
+Coupure de gaz - Counter 8 (Kef),2.0,Maintenance,Technicien Distribution,['Réparation de fuites'],['Certificat Gaz Niveau 2'],['Maintenance pipeline niveau 1'],ccccccccccccccccccccccce
+Maintenance - Counter 9 (Siliana),1.0,Maintenance,Superviseure Maintenance,['Planification'],['Certificat Gaz Niveau 3'],['Formation gestion de crise'],cccccccccccccccccccccccd
+Coupure de gaz - Counter 10 (Béja),3.0,Metering,Technicienne Compteurs,['Relevé de consommation'],['Certificat installation compteur'],['Formation compteurs intelligents'],cccccccccccccccccccccccf
+Maintenance - Pipeline A (Sfax),4.0,Operations,Technicien Réseau,['Diagnostic terrain'],['Certificat Gaz Niveau 2'],['Formation intervention rapide'],ccccccccccccccccccccccd0
+Maintenance - Pipeline A (Sfax),4.0,Operations,Contrôleuse Qualité,['Diagnostic terrain'],['Certificat Gaz Niveau 2'],['Formation intervention rapide'],ccccccccccccccccccccccd1
+Coupure de gaz - Pipeline B (Gabès),2.0,Technical Support,Chargé de support SCADA,['Alertes réseau'],['Certificat SCADA niveau 1'],['Formation GMAO'],ccccccccccccccccccccccd2
+Maintenance - Pipeline C (Tataouine),3.0,Distribution,Superviseure Distribution,['Optimisation pression'],['Certificat Gaz Niveau 3'],['Leadership technique'],ccccccccccccccccccccccd3
+Maintenance - Pipeline C (Tataouine),3.0,Distribution,Planificateur,['Optimisation pression'],['Certificat Gaz Niveau 3'],['Leadership technique'],ccccccccccccccccccccccd4
+Coupure de gaz - Pipeline D (Medenine),2.0,Safety & Compliance,Technicienne sécurité,['Briefing sécurité'],['Certificat sécurité incendie'],['Formation sécurité gaz'],ccccccccccccccccccccccd5
+Maintenance - Pipeline E (Sousse),2.0,Maintenance,Technicien Maintenance,['Inspection pipeline'],['Certificat Gaz Niveau 2'],['Maintenance pipeline niveau 1'],cccccccccccccccccccccccc
+Coupure de gaz - Pipeline F (Monastir),1.0,Distribution,Superviseure Maintenance,['Pressurisation réseau'],['Certificat Gaz Niveau 1'],['Sécurité réseau gaz'],cccccccccccccccccccccccd
+Coupure de gaz - Pipeline F (Monastir),1.0,Distribution,Technicien Distribution,['Pressurisation réseau'],['Certificat Gaz Niveau 1'],['Sécurité réseau gaz'],ccccccccccccccccccccccce
+Maintenance - Pipeline G (Mahdia),3.0,Metering,Technicienne Compteurs,['Installation compteur'],['Certificat installation compteur'],['Formation compteurs intelligents'],cccccccccccccccccccccccf
+Coupure de gaz - Pipeline H (Kairouan),1.0,Operations,Technicien Réseau,['Intervention urgente'],['Certificat Gaz Niveau 2'],['Formation intervention rapide'],ccccccccccccccccccccccd0
+Maintenance - Pipeline I (Zarzis),2.0,Safety & Compliance,Contrôleuse Qualité,['Inspection finale'],['Habilitation électrique B0'],['Audit ISO'],ccccccccccccccccccccccd1
+Maintenance - Pipeline I (Zarzis),2.0,Safety & Compliance,Chargé de support SCADA,['Inspection finale'],['Habilitation électrique B0'],['Audit ISO'],ccccccccccccccccccccccd2
+Coupure de gaz - Pipeline J (Nabeul),2.0,Maintenance,Superviseure Maintenance,[],[],[],cccccccccccccccccccccccd
